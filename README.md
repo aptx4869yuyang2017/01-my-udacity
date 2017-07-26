@@ -12,3 +12,6 @@
 
 * [b-intro_to data_analysis-170726](b-intro_to data_analysis-170726/README.md)
 * [b-intro_to data_analysis-170726](b-intro_to data_analysis-170726.md)
+* [前言](README.md)
+* [人生最重要的概念：复利](A01.md)
+* [最根本的学习与创作：践行](A02.md)
