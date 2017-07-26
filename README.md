@@ -11,4 +11,4 @@
 ## 笔记索引
 
 * [b-intro_to data_analysis-170726](b-intro_to data_analysis-170726/README.md)
-* 
+* [b-intro_to data_analysis-170726](b-intro_to data_analysis-170726.md)
