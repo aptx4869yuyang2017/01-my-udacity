@@ -1,10 +1,17 @@
 # Udacity 学习记录
 
 ## 目录
+### b 初级
 * b-intro_to data_analysis-170726
 * [b-intro_to data_analysis-02pd1D-170729](http://note.youdao.com/noteshare?id=95b9615f32d7c3a771c62ebcc7dd794f) 
+* [统计学入门](https://cn.udacity.com/course/intro-to-statistics--st101)
+* [描述统计学入门](https://cn.udacity.com/course/intro-to-descriptive-statistics--ud827)
+* [推论统计学入门](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-
+## b 中级
+* [A/B 测试](https://cn.udacity.com/course/ab-testing--ud257)
+* [数据科学入门](https://cn.udacity.com/course/intro-to-data-science--ud359)
+* [用 R 进行数据分析](https://cn.udacity.com/course/data-analysis-with-r--ud651)
 ## 文档结构
 
 * 统一文件命名规则
